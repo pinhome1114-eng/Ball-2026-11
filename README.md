@@ -1,4 +1,4 @@
-# Unity 6 遊戲教學與 AI 協作範本
+# B392007 賴沛沛
 
 適用 Editor：**Unity 6000.3.17f1**。文件使用繁體中文，輸入統一使用 **Input System Package (New)**。
 
